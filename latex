@@ -160,6 +160,11 @@ and latex-tikz codes from
 https://github.com/Vallidevibolla/704-Valli-Devi-assignment/blob/main/latex
 \end{lstlisting}
 %
+Question taken from
+\begin{lstlisting}
+cbse/math/10/2008/qp-math-x-2008.pdf Code 30/2/1- Q.no.14 
+\end{lstlisting}
+%
 \section{Question 14}
 Find the value of $k$, if the points\\ 
 $\vec {A}=\myvec {k\\3},
