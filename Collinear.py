@@ -15,8 +15,22 @@ import matplotlib.pyplot as plt
 
 from sympy import*
 
+a=1
+b=0
+c=1
+d=3
+e=2
+f=3
+g=4
+h=7
+i=-1
+j=-3
+k=-3
+l=-4
 
-M = Matrix([[1,0,1,3],[2,3,4,7],[-1,-3,-3,-4]])
+#M=Matrix([[1,0,1,3],[2,3,4,7],[-1,-3,-3,-4]])
+M=Matrix([[a,b,c,d],[e,f,g,h],[i,j,k,l]])
+
 
 print("Matrix :{}".format(M))
 
